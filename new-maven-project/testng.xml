@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SearchPageSuite">
+
+	<test thread-count="5" name="SearchResultTest">
+		<classes>
+			<class name="TestMobexo.PageObejctsTestNG">
+				<methods>
+					<include name="incorrectSearchTest"></include>
+				</methods>
+			</class>
+			>
+		</classes>
+	</test>
+
+</suite>

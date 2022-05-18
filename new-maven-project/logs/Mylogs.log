@@ -1,0 +1,10 @@
+[TRACE] 2022-04-30 12:54:15.967 [main] Log4jDemo - This is a trace messgae
+[INFO ] 2022-04-30 12:54:15.969 [main] Log4jDemo - This is information messgae
+[ERROR] 2022-04-30 12:54:15.970 [main] Log4jDemo - Error message
+[WARN ] 2022-04-30 12:54:15.970 [main] Log4jDemo - A warning message
+[FATAL] 2022-04-30 12:54:15.970 [main] Log4jDemo - This is fatal message
+[TRACE] 2022-04-30 12:58:12.451 [main] Log4jDemo - This is a trace messgae
+[INFO ] 2022-04-30 12:58:12.454 [main] Log4jDemo - This is information messgae
+[ERROR] 2022-04-30 12:58:12.454 [main] Log4jDemo - Error message
+[WARN ] 2022-04-30 12:58:12.455 [main] Log4jDemo - A warning message
+[FATAL] 2022-04-30 12:58:12.455 [main] Log4jDemo - This is fatal message
